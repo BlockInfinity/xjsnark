@@ -7,8 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ecf95f5-c015-44a8-ad20-6c0b9a7cbfb2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/xjsnark/sandbox/models/xjsnark/paillier.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/xjsnark/sandbox/models/xjsnark/rsa.mps" afterPath="$PROJECT_DIR$/languages/xjsnark/sandbox/models/xjsnark/rsa.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/xjsnark/sandbox/models/xjsnark/paillier.mps" afterPath="$PROJECT_DIR$/languages/xjsnark/sandbox/models/xjsnark/paillier.mps" />
     </list>
     <ignored path="xjsnark.iws" />
     <ignored path=".mps/workspace.xml" />
@@ -66,7 +65,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:1b47fb3a-25eb-4c87-8d0d-3b5a61679334(xjsnark.paillier)/2182404647381604001" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:1b47fb3a-25eb-4c87-8d0d-3b5a61679334(xjsnark.paillier)/2182404647383921874" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -97,7 +96,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:1b47fb3a-25eb-4c87-8d0d-3b5a61679334(xjsnark.paillier)/2182404647381604001" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:1b47fb3a-25eb-4c87-8d0d-3b5a61679334(xjsnark.paillier)/2182404647383921874" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -112,15 +111,15 @@
         <entry file="mps://node://xjsnark.sandbox/xjsnark.paillier/PaillierEncryption">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
+              <memento viewPositionX="0" viewPositionY="440">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="39" />
+                    <property name="caretX" value="407" />
                     <property name="caretXRelative" value="8" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_xfyfmo_e0" cellNumber="0" isInList="false">
-                      <node node_reference="r:1b47fb3a-25eb-4c87-8d0d-3b5a61679334(xjsnark.paillier)/2182404647381604001" />
+                    <cellInfo cellId="Constant_zedcwq_b0" cellNumber="0" isInList="false">
+                      <node node_reference="r:1b47fb3a-25eb-4c87-8d0d-3b5a61679334(xjsnark.paillier)/2182404647383921874" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -128,7 +127,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:1b47fb3a-25eb-4c87-8d0d-3b5a61679334(xjsnark.paillier)/2182404647381604001" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:1b47fb3a-25eb-4c87-8d0d-3b5a61679334(xjsnark.paillier)/2182404647383921874" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -262,134 +261,8 @@
               <option name="myItemId" value="xjsnark" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/runtime/xjsnark.runtime.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/sandbox/xjsnark.sandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xjsnark" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="r:1b47fb3a-25eb-4c87-8d0d-3b5a61679334(xjsnark.paillier) in IdeaFile{file:///home/christoph/MPSProjects/xjsnark/languages/xjsnark/sandbox/models/xjsnark/paillier.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/sandbox/xjsnark.sandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xjsnark" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:73ac15ae-3fdc-4863-94d7-12cafed86172(xjsnark.sudoku) in IdeaFile{file:///home/christoph/MPSProjects/xjsnark/languages/xjsnark/sandbox/models/xjsnark/sudoku.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="0688d542-e2a3-492c-a31f-0e921fd6a8fb(xjsnark)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/runtime/xjsnark.runtime.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stubs" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/sandbox/xjsnark.sandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xjsnark" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:ed2b2bb1-3603-4f22-a2b5-279027a8a2b9(xjsnark.aes) in IdeaFile{file:///home/christoph/MPSProjects/xjsnark/languages/xjsnark/sandbox/models/xjsnark/aes.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/sandbox/xjsnark.sandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xjsnark" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:b8f24ffe-c5d6-460f-b30e-d91087af356a(xjsnark.rsa) in IdeaFile{file:///home/christoph/MPSProjects/xjsnark/languages/xjsnark/sandbox/models/xjsnark/rsa.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/sandbox/xjsnark.sandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xjsnark" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:92cac21e-3574-4519-8e5f-9bfe937716b9(xjsnark.sandbox) in IdeaFile{file:///home/christoph/MPSProjects/xjsnark/languages/xjsnark/sandbox/models/xjsnark/sandbox.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -427,11 +300,137 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/sandbox/xjsnark.sandbox.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xjsnark" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:b8f24ffe-c5d6-460f-b30e-d91087af356a(xjsnark.rsa) in IdeaFile{file:///home/christoph/MPSProjects/xjsnark/languages/xjsnark/sandbox/models/xjsnark/rsa.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/runtime/xjsnark.runtime.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/runtime/xjsnark.runtime.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stubs" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/sandbox/xjsnark.sandbox.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xjsnark" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:73ac15ae-3fdc-4863-94d7-12cafed86172(xjsnark.sudoku) in IdeaFile{file:///home/christoph/MPSProjects/xjsnark/languages/xjsnark/sandbox/models/xjsnark/sudoku.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/sandbox/xjsnark.sandbox.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xjsnark" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:ed2b2bb1-3603-4f22-a2b5-279027a8a2b9(xjsnark.aes) in IdeaFile{file:///home/christoph/MPSProjects/xjsnark/languages/xjsnark/sandbox/models/xjsnark/aes.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/sandbox/xjsnark.sandbox.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xjsnark" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="0688d542-e2a3-492c-a31f-0e921fd6a8fb(xjsnark)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="r:956d0a65-34b8-43f7-8adb-c037492e50b0(xjsnark.behavior) in IdeaFile{file:///home/christoph/MPSProjects/xjsnark/languages/xjsnark/models/behavior.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/sandbox/xjsnark.sandbox.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xjsnark" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:92cac21e-3574-4519-8e5f-9bfe937716b9(xjsnark.sandbox) in IdeaFile{file:///home/christoph/MPSProjects/xjsnark/languages/xjsnark/sandbox/models/xjsnark/sandbox.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="0688d542-e2a3-492c-a31f-0e921fd6a8fb(xjsnark)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -867,7 +866,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:1b47fb3a-25eb-4c87-8d0d-3b5a61679334(xjsnark.paillier)/2182404647381604001" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:1b47fb3a-25eb-4c87-8d0d-3b5a61679334(xjsnark.paillier)/2182404647383921874" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -954,7 +953,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:1b47fb3a-25eb-4c87-8d0d-3b5a61679334(xjsnark.paillier)/2182404647381604001" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:1b47fb3a-25eb-4c87-8d0d-3b5a61679334(xjsnark.paillier)/2182404647383921874" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1025,15 +1024,15 @@
     <entry file="mps://node://xjsnark.sandbox/xjsnark.paillier/PaillierEncryption">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
+          <memento viewPositionX="0" viewPositionY="440">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="39" />
+                <property name="caretX" value="407" />
                 <property name="caretXRelative" value="8" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_xfyfmo_e0" cellNumber="0" isInList="false">
-                  <node node_reference="r:1b47fb3a-25eb-4c87-8d0d-3b5a61679334(xjsnark.paillier)/2182404647381604001" />
+                <cellInfo cellId="Constant_zedcwq_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:1b47fb3a-25eb-4c87-8d0d-3b5a61679334(xjsnark.paillier)/2182404647383921874" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1041,7 +1040,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:1b47fb3a-25eb-4c87-8d0d-3b5a61679334(xjsnark.paillier)/2182404647381604001" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:1b47fb3a-25eb-4c87-8d0d-3b5a61679334(xjsnark.paillier)/2182404647383921874" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
