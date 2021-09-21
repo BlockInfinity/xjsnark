@@ -45,6 +45,9 @@
         <property id="1070475926801" name="value" index="Xl_RC" />
       </concept>
       <concept id="1081236700938" name="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" flags="ig" index="2YIFZL" />
+      <concept id="1081236700937" name="jetbrains.mps.baseLanguage.structure.StaticMethodCall" flags="nn" index="2YIFZM">
+        <reference id="1144433194310" name="classConcept" index="1Pybhc" />
+      </concept>
       <concept id="1070533707846" name="jetbrains.mps.baseLanguage.structure.StaticFieldReference" flags="nn" index="10M0yZ">
         <reference id="1144433057691" name="classifier" index="1PxDUh" />
       </concept>
@@ -101,6 +104,7 @@
       <concept id="1068580320020" name="jetbrains.mps.baseLanguage.structure.IntegerConstant" flags="nn" index="3cmrfG">
         <property id="1068580320021" name="value" index="3cmrfH" />
       </concept>
+      <concept id="1068581242875" name="jetbrains.mps.baseLanguage.structure.PlusExpression" flags="nn" index="3cpWs3" />
       <concept id="1068581242878" name="jetbrains.mps.baseLanguage.structure.ReturnStatement" flags="nn" index="3cpWs6">
         <child id="1068581517676" name="expression" index="3cqZAk" />
       </concept>
@@ -733,17 +737,6 @@
       <node concept="3cqZAl" id="1T9tnr3lTse" role="3clF45" />
       <node concept="3Tm1VV" id="1T9tnr3lTsf" role="1B3o_S" />
       <node concept="3clFbS" id="1T9tnr3lTsg" role="3clF47">
-        <node concept="3clFbH" id="1T9tnr3lTsh" role="3cqZAp" />
-        <node concept="3SKdUt" id="1T9tnr3lTsi" role="3cqZAp">
-          <node concept="3SKdUq" id="1T9tnr3lTsj" role="3SKWNk">
-            <property role="3SKdUp" value="This is the java main method. Its purpose is to make the Progam runnable in the environment" />
-          </node>
-        </node>
-        <node concept="3SKdUt" id="1T9tnr3lTsk" role="3cqZAp">
-          <node concept="3SKdUq" id="1T9tnr3lTsl" role="3SKWNk">
-            <property role="3SKdUp" value="This method can be left empty, or used to set Configuration params (see examples)" />
-          </node>
-        </node>
         <node concept="3clFbF" id="1T9tnr3uJje" role="3cqZAp">
           <node concept="37vLTI" id="1T9tnr3uJjf" role="3clFbG">
             <node concept="10M0yZ" id="1T9tnr3vJmh" role="37vLTJ">
@@ -757,17 +750,26 @@
         </node>
         <node concept="3SKdUt" id="2h3_Bt5dp1C" role="3cqZAp">
           <node concept="3SKdUq" id="1T9tnr3uJjm" role="3SKWNk">
-            <property role="3SKdUp" value="set the path of the output circuit" />
+            <property role="3SKdUp" value="Set the path of the output circuit." />
           </node>
         </node>
         <node concept="3clFbF" id="1T9tnr3uJji" role="3cqZAp">
-          <node concept="37vLTI" id="1T9tnr3uJjj" role="3clFbG">
+          <node concept="37vLTI" id="4953nUz0Ayb" role="3clFbG">
             <node concept="10M0yZ" id="1T9tnr3vJm3" role="37vLTJ">
               <ref role="3cqZAo" to="85wc:~Config.outputFilesPath" resolve="outputFilesPath" />
               <ref role="1PxDUh" to="85wc:~Config" resolve="Config" />
             </node>
-            <node concept="Xl_RD" id="1T9tnr3uJjl" role="37vLTx">
-              <property role="Xl_RC" value="/tmp/pathgoesheres" />
+            <node concept="3cpWs3" id="4953nUz0A_J" role="37vLTx">
+              <node concept="Xl_RD" id="4953nUz0A_K" role="3uHU7w">
+                <property role="Xl_RC" value="/Development/Work/snark_service/circuit/" />
+              </node>
+              <node concept="2YIFZM" id="4953nUz0A_L" role="3uHU7B">
+                <ref role="1Pybhc" to="wyt6:~System" resolve="System" />
+                <ref role="37wK5l" to="wyt6:~System.getProperty(java.lang.String):java.lang.String" resolve="getProperty" />
+                <node concept="Xl_RD" id="4953nUz0A_M" role="37wK5m">
+                  <property role="Xl_RC" value="user.home" />
+                </node>
+              </node>
             </node>
           </node>
         </node>
