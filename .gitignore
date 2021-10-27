@@ -7,3 +7,8 @@
 /languages/xjsnark/sandbox/source_gen.caches/
 /languages/xjsnark/sandbox/source_gen/
 /languages/xjsnark/sandbox/classes_gen/
+
+.mps/encodings.xml
+.mps/misc.xml
+.mps/version.xml
+.mps/workspace.xml
